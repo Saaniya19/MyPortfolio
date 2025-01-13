@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Welcome to My Portfolio!
 
-Template Name: FlexStart
-Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Launch saaniya19.github.io/MyPortfolio/ to learn a little more aboout me!
